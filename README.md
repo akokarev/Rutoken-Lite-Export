@@ -5,7 +5,7 @@
 - Флешка (хотя по идеи и внешний HDD подойдет)
 
 Последовательность действий:
-1. Качаем и распаковываем архив [[Tokens_CertFix.zip](https://github.com/akokarev/Rutoken-Lite-Export/raw/main/Tokens_CertFix.zip).
+1. Качаем и распаковываем архив [Tokens_CertFix.zip](https://github.com/akokarev/Rutoken-Lite-Export/raw/main/Tokens_CertFix.zip).
 2. Вставляем в ПК исходный токен Rutoken Lite;
 3. Из распакованной папки запускаем «Tokens.exe»
 4. Выбираем наш сертификат и нажимаем «Экспорт»:
